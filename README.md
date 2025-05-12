@@ -1,17 +1,4 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com
-      ?font=Time+New+Roman
-      &color=FF6EC7
-      &size=24
-      &center=true
-      &vCenter=true
-      &width=600
-      &height=100
-      &lines=Full-Stack+Developer;Web+%26+Design+Developer;Backend+%E2%86%92+Node.js+%E2%80%A2+Django+%E2%80%A2+Express;Self-Taught+%26+Curious;Always+debugging+life+%F0%9F%90%9E"
-      alt="typing…"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=F745B7&width=435&lines=Full-Stack+Developer;Web+%26+Design+Developer;Backend+%E2%86%92+Node.js+%E2%80%A2+Django+%E2%80%A2+Express;Self-Taught+%26+Curious)](https://git.io/typing-svg)
 
 
 # 💫 About Me:

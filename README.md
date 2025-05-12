@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/YourUsername/readme-typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com
       ?font=Time+New+Roman
       &color=FF6EC7

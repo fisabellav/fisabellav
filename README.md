@@ -1,3 +1,19 @@
+<p align="center">
+  <a href="https://github.com/YourUsername/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com
+      ?font=Time+New+Roman
+      &color=FF6EC7
+      &size=24
+      &center=true
+      &vCenter=true
+      &width=600
+      &height=100
+      &lines=Full-Stack+Developer;Web+%26+Design+Developer;Backend+%E2%86%92+Node.js+%E2%80%A2+Django+%E2%80%A2+Express;Self-Taught+%26+Curious;Always+debugging+life+%F0%9F%90%9E"
+      alt="typing…"/>
+  </a>
+</p>
+
+
 # 💫 About Me:
 I’m a dedicated Full-Stack Web Developer with experience building web apps in Django and Python. I’m currently sharpening my JavaScript skills—working with React, Node.js, Express and MongoDB. My projects range from internship work to bootcamp drills and academic mini-apps, reflecting a steady growth in practical, real-world development. 
 
